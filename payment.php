@@ -319,7 +319,7 @@ img{max-width:100%;display:block}
             $waText .= "Total: *" . rupiah($order['grand_total']) . "*%0A%0A";
             $waText .= "Bukti transfer saya lampirkan di chat ini. Terima kasih 🙏";
             ?>
-            <a href="https://wa.me/6285171000063?text=<?= $waText ?>" target="_blank" class="btn btn-wa">
+            <a href="https://wa.me/6285695218053?text=<?= $waText ?>" target="_blank" class="btn btn-wa">
                 <i class="fab fa-whatsapp"></i> Konfirmasi via WhatsApp
             </a>
             <a href="order-detail.php?id=<?= $order['id'] ?>" class="btn btn-outline">

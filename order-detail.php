@@ -476,7 +476,7 @@ img{max-width:100%;display:block}
                         </a>
 
                         <!-- Chat Admin -->
-                        <a href="https://wa.me/6285171000063?text=Halo%20Ngemil%20Dimsum%2C%20saya%20mau%20tanya%20tentang%20pesanan%20<?= urlencode($order['kode_order']) ?>"
+                        <a href="https://wa.me/6285695218053?text=Halo%20Ngemil%20Dimsum%2C%20saya%20mau%20tanya%20tentang%20pesanan%20<?= urlencode($order['kode_order']) ?>"
                            target="_blank" class="btn btn-outline btn-block">
                             <i class="fab fa-whatsapp"></i> Hubungi Admin
                         </a>

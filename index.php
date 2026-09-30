@@ -746,7 +746,7 @@ footer{
         Dibuat dengan perhatian untuk menemani berbagai momen spesialmu.
     </p>
     <div class="hero-buttons">
-        <a href="https://wa.me/6285171000063" target="_blank" class="button button-primary">
+        <a href="https://wa.me/6285695218053" target="_blank" class="button button-primary">
             Pesan via WhatsApp →
         </a>
         <a href="#gallery" class="button button-outline">Lihat Momen</a>
@@ -890,7 +890,7 @@ footer{
         <h2>Jadi, hari ini mau dimsum apa?</h2>
         <p>Untuk surprise, keluarga, kantor ataupun acara besar.</p>
     </div>
-    <a href="https://wa.me/6285171000063" target="_blank" class="cta-button">Konsultasi via WhatsApp</a>
+    <a href="https://wa.me/6285695218053" target="_blank" class="cta-button">Konsultasi via WhatsApp</a>
 </div>
 </div>
 </section>
@@ -924,7 +924,7 @@ footer{
 </div>
 <div>
     <h4>Kontak</h4>
-    <a href="https://wa.me/6285171000063" target="_blank">+62 851-7100-0063</a>
+    <a href="https://wa.me/6285695218053" target="_blank">+62 856-9521-8053</a>
     <a href="#">@ngemil.dimsum</a>
     <a href="#">@ngemildimsum</a>
     <p>jakarta, depok</p>
