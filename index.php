@@ -907,7 +907,7 @@ footer{
     <div class="footer-logo">Ngemil Dimsum</div>
     <p>Dimsum homemade halal dari Jakarta, dibuat hangat untuk berbagai momen.</p>
     <br>
-    <p>no Halal.</p>
+    <p>Halal.</p>
 </div>
 <div>
     <h4>Navigasi</h4>
