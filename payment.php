@@ -192,7 +192,7 @@ img{max-width:100%;display:block}
 <aside class="sidebar">
     <div class="logo-container">
         <div style="width:100px;height:100px;background:#d4a843;border-radius:50%;margin:0 auto;display:flex;align-items:center;justify-content:center;">
-            <img src="k/lo.png" alt="Dimsum" style="width:80px;height:80px;">
+            <img src="asse/lo1.png" alt="Dimsum" style="width:80px;height:80px;">
         </div>
         <div class="logo-text">Ngemil <span>Dimsum</span></div>
     </div>
