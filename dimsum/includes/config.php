@@ -1,10 +1,10 @@
 <?php
 session_start();
 
-$DB_HOST = 'localhost';
-$DB_USER = 'root';
-$DB_PASS = '';
-$DB_NAME = 'ngemil_dimsum';
+$DB_HOST = 'sql106.infinityfree.com';
+$DB_USER = 'if0_43520102';
+$DB_PASS = 'ngemildimsum';
+$DB_NAME = 'if0_43520102_ngemil_dimsum';
 
 $koneksi = new mysqli($DB_HOST, $DB_USER, $DB_PASS, $DB_NAME);
 if ($koneksi->connect_error) {
